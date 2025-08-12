@@ -1,0 +1,19 @@
+# Virtual Environments - IMPORTANT
+venv/
+aura_env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Configuration file with secret API keys
+config.json
+
+# Executable files
+*.exe
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
